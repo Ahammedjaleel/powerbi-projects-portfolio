@@ -1,4 +1,4 @@
-# powerbi-projects-portfolio
+# PowerBI-Projects-Portfolio
 
 # 🦠 COVID-19 Analysis by Country – Power BI Dashboard
 
