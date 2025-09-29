@@ -42,3 +42,6 @@ USA has the highest active cases, followed by France.
 Europe and North America show nearly equal active case numbers.
 #### Interactive Filtering:
 All visuals respond to slicer inputs for focused analysis.
+#### Let's Connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
+
