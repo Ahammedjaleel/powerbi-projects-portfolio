@@ -5,7 +5,7 @@
 An interactive Power BI dashboard analyzing global COVID-19 data by country and continent. Includes key metrics like total cases, active cases, deaths, recoveries, and testing data. Features dynamic slicers, KPI cards, and comparative visuals to explore the pandemic's impact across regions.
 
 
-## ➡️[GitHub Repository](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/Covid-19%20Analysis%20By%20Country)
+## ➡️[GitHub Repository](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/world_covid19_country_report)
 
 
 
