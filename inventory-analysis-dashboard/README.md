@@ -107,3 +107,17 @@ DAX (Data Analysis Expressions)
 Relational Data Modeling
 
 Custom Measures for ABC/XYZ
+
+## 📬 Contact
+
+ Ahammed Jaleel
+ 
+📧 jaleelahammed@gmail.com
+
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
+
+
+
+
+
+
