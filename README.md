@@ -1,4 +1,9 @@
 # PowerBI-Projects-Portfolio
+
+# 📊 Inventory Analysis Dashboard 
+This Power BI dashboard provides a detailed analysis of inventory performance across warehouses using key metrics like Inventory Value, Inventory Turnover, and SKU count. It includes ABC and XYZ classification for inventory optimization, visual insights by warehouse and vendor, and a gauge chart to monitor reorder levels. Designed for supply chain and warehouse teams to improve stock control and efficiency.
+## ➡️[GitHub Repository](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/inventory-analysis-dashboard)
+
 # 📊 Sales & Profit Analysis Dashboard
 This project presents an interactive and visually rich Sales & Profit Analysis Dashboard created using Power BI. The dashboard provides a comprehensive view of business performance across multiple KPIs and geographies, helping stakeholders make informed decisions.
 ## ➡️[GitHub Repository](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/sales-profit-analysis-dashboard)
