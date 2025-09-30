@@ -1,6 +1,6 @@
 # PowerBI-Projects-Portfolio
 
-# 📊 Inventory Analysis Dashboard 
+# 🖼️ Inventory Analysis Dashboard 
 This Power BI dashboard provides a detailed analysis of inventory performance across warehouses using key metrics like Inventory Value, Inventory Turnover, and SKU count. It includes ABC and XYZ classification for inventory optimization, visual insights by warehouse and vendor, and a gauge chart to monitor reorder levels. Designed for supply chain and warehouse teams to improve stock control and efficiency.
 ## ➡️[GitHub Repository](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/inventory-analysis-dashboard)
 
