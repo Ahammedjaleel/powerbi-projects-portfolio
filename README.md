@@ -1,4 +1,7 @@
 # PowerBI-Projects-Portfolio
+# 📊 Sales & Profit Analysis Dashboard
+This project presents an interactive and visually rich Sales & Profit Analysis Dashboard created using Power BI. The dashboard provides a comprehensive view of business performance across multiple KPIs and geographies, helping stakeholders make informed decisions.
+## ➡️[GitHub Repository](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/sales-profit-analysis-dashboard)
 
 # 🦠 COVID-19 Analysis by Country – Power BI Dashboard
 
