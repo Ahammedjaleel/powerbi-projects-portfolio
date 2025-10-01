@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/e3fe55d9-758c-42ab-8876-d2737a1c1214
 - **Power BI Desktop**
 - **Power Query** for data transformation
 - **DAX** for custom calculations
-- **Custom Visuals**: Violin Plot, Radar Chart, Ribbon Chart
+- **Custom Visuals**: Violin Plot, Radar Chart, Rotating Chart
 - **Data Source**: Public supermarket sales dataset
 
 ---
