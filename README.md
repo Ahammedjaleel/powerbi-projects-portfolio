@@ -1,4 +1,9 @@
+
 # PowerBI-Projects-Portfolio
+
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/a94978dd-20ec-4901-b860-3e461c477a93" />  Supplier KPI Tracker](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/supplier-kpi-tracker%60/README.md)
+An interactive Power BI dashboard analyzing supermarket sales across cities. It highlights key insights on sales trends, customer behavior, product performance, and gross income using dynamic visuals like ribbon charts, radar charts, and violin plots. The project showcases skills in data modeling, DAX, and dashboard design.
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/c388537c-fc6c-4bb8-bb5f-0f05334dcf9c" />  Supermarket Sales Analysis](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/supermarket-sales-analysis)
 An interactive Power BI dashboard analyzing supermarket sales across cities. It highlights key insights on sales trends, customer behavior, product performance, and gross income using dynamic visuals like ribbon charts, radar charts, and violin plots. The project showcases skills in data modeling, DAX, and dashboard design.
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/5b1c606c-17ad-4380-b3be-f657644d16b1" /> Inventory Analysis Dashboard](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/inventory-analysis-dashboard)
