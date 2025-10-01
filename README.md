@@ -1,6 +1,12 @@
 
 # PowerBI-Projects-Portfolio
 
+
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/cbc47e33-b838-47a5-a060-20882b246f3b" />  Logistics Performance Tracker ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/logistics-performance-tracker/README.md)
+A dynamic Power BI dashboard for procurement analysis using Canadian data. It tracks key KPIs like revenue, inventory, profit margin, and transactions, with interactive filters and visuals including maps, area charts, and product performance. Built to support supply chain insights and data-driven decision-making.
+
+
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/a94978dd-20ec-4901-b860-3e461c477a93" />  Supplier KPI Tracker](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/supplier-kpi-tracker%60/README.md)
 An interactive Power BI dashboard analyzing supermarket sales across cities. It highlights key insights on sales trends, customer behavior, product performance, and gross income using dynamic visuals like ribbon charts, radar charts, and violin plots. The project showcases skills in data modeling, DAX, and dashboard design.
 
