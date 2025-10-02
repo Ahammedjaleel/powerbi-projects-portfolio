@@ -1,20 +1,11 @@
+## 🔹 Balance Sheet
 
 
----
+This report displays a high-level view of assets, liabilities, and equity at a given point in time.
 
-## 🖼️ Screenshots
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0ccebe05-3c9d-4e45-95a3-ca240ccccb33" />
 
-### 🔹 Balance Sheet Page
-![Balance Sheet Screenshot](./Screenshots/balance-sheet-page.png)
 
-### 🔹 Income Statement Page
-![Income Statement Screenshot](./Screenshots/income-statement-page.png)
-
----
-
-## 🔹 Page 1: Balance Sheet
-
-This page displays a high-level view of assets, liabilities, and equity at a given point in time.
 
 ### 📌 Key Metrics (Based on Current Values)
 
@@ -42,9 +33,11 @@ This page displays a high-level view of assets, liabilities, and equity at a giv
 
 ---
 
-## 🔹 Page 2: Income Statement
+## 🔹  Income Statement
+This report focuses on profitability and operational efficiency over a time period.
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ea17ad74-fea8-4850-a691-0c33ff541193" />
 
-This page focuses on profitability and operational efficiency over a time period.
+
 
 ### 📌 Key Metrics (Based on Current Values)
 
@@ -93,6 +86,11 @@ This page focuses on profitability and operational efficiency over a time period
 - Make informed business decisions using interactive visuals
 
 ---
+#### Let's Connect
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahammedjaleel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
+---
 
-## 🗂️ File Structure Recommendation
+### 🏷️ Tags
+`Power BI` · `Financial Report` · `Balance Sheet` · `Income Statement` · `KPI Dashboard` · `Financial Analysis` · `Business Intelligence` · `Data Visualization` · `P&L` · `Finance`
 
