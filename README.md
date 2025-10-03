@@ -1,6 +1,9 @@
 
 # PowerBI-Projects-Portfolio
 
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/0ccebe05-3c9d-4e45-95a3-ca240ccccb33" /> Balance Sheet & Income Statement ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/balance-sheet-income-statement-pbi)
+Financial Performance Dashboard is an interactive Power BI report designed to analyze and visualize a company’s financial health through key liquidity, profitability, and efficiency metrics. The report combines data from the Balance Sheet and Income Statement to provide a comprehensive view of short-term stability, debt levels, and operational performance.
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/6c1c56ab-4c19-4be1-87e7-9dd46687cf2c" /> Executive Financial Summary Dashboard ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/executive-financial-summary)
 Executive Financial Summary Dashboard is an interactive Power BI report that provides a high-level overview of key financial metrics, including total sales, net profit, transactions, and cost analysis. It allows users to explore sales trends, operational expenses, segment performance, and product-level revenue through dynamic filters and visual insights. Designed for executives and analysts, the dashboard supports data-driven decision-making and business performance tracking.
 
