@@ -1,7 +1,7 @@
 
 # PowerBI-Projects-Portfolio
 
-# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/6c1c56ab-4c19-4be1-87e7-9dd46687cf2c" /> Executive Financial Summary Dashboard ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/edit/main/executive-financial-summary/README.md)
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/6c1c56ab-4c19-4be1-87e7-9dd46687cf2c" /> Executive Financial Summary Dashboard ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/executive-financial-summary)
 Executive Financial Summary Dashboard is an interactive Power BI report that provides a high-level overview of key financial metrics, including total sales, net profit, transactions, and cost analysis. It allows users to explore sales trends, operational expenses, segment performance, and product-level revenue through dynamic filters and visual insights. Designed for executives and analysts, the dashboard supports data-driven decision-making and business performance tracking.
 
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/cbc47e33-b838-47a5-a060-20882b246f3b" />  Logistics Performance Tracker ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/logistics-performance-tracker/README.md)
