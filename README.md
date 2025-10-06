@@ -1,5 +1,8 @@
 
 # PowerBI-Projects-Portfolio
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/348e2d9f-bd8f-41de-875f-64fec165d7fe" />  Audit, Risk & Compliance Dashboard  ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/audit-risk-management-dashboard)
+
+An interactive Power BI dashboard to track audit status, risk levels, departments, and locations. Key insights include high-risk backlogs, uneven manager workload, and geographic risk clusters. Built with slicers, maps, and visuals for dynamic analysis, it supports audit teams in identifying and managing critical risks effectively.
 
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/0ccebe05-3c9d-4e45-95a3-ca240ccccb33" /> Balance Sheet & Income Statement ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/balance-sheet-income-statement-pbi)
 Financial Performance Dashboard is an interactive Power BI report designed to analyze and visualize a company’s financial health through key liquidity, profitability, and efficiency metrics. The report combines data from the Balance Sheet and Income Statement to provide a comprehensive view of short-term stability, debt levels, and operational performance.
