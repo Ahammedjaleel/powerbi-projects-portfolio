@@ -1,4 +1,4 @@
-# 📊 Department Spend Overview 
+# 📘 Department Spend Overview 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ffa1cb50-5c66-4ed1-baf7-fae29094aec0" />
 
 
