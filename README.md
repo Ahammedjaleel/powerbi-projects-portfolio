@@ -1,6 +1,6 @@
 
 # PowerBI-Projects-Portfolio
-# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/348e2d9f-bd8f-41de-875f-64fec165d7fe" />  Audit, Risk & Compliance Dashboard  ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/audit-risk-management-dashboard)
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/53fc7c5f-bbca-4fa7-9405-0a6aa68fae5f" />  Audit, Risk & Compliance Dashboard  ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/audit-risk-management-dashboard)
 
 An interactive Power BI dashboard to track audit status, risk levels, departments, and locations. Key insights include high-risk backlogs, uneven manager workload, and geographic risk clusters. Built with slicers, maps, and visuals for dynamic analysis, it supports audit teams in identifying and managing critical risks effectively.
 
