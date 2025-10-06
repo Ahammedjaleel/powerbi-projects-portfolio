@@ -1,6 +1,8 @@
 
 # 🛡️ Audit, Risk & Compliance Dashboard 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/348e2d9f-bd8f-41de-875f-64fec165d7fe" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/53fc7c5f-bbca-4fa7-9405-0a6aa68fae5f" />
+
+
 
 This project presents an interactive **Audit, Risk, and Compliance Dashboard** developed using **Power BI**. It allows users to explore audit status, risk ratings, responsible departments, geographic locations, and financial exposure in a dynamic and visual manner.
 
@@ -32,8 +34,7 @@ The dataset includes audit entries spanning multiple years and cities, covering 
 | `Entity`, `Office Name`, `Year` | Organizational metadata |
 
 > 📌 **Filters (Slicers) in the dashboard**:  
-> Year ▪ Quarter ▪ City ▪ Department ▪ Risk Type
-
+> Year ▪  City ▪ Department ▪ Risk Type▪ Entity
 ---
 
 ## 📊 Key Visuals and Insights
