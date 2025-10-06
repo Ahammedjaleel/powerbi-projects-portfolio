@@ -1,5 +1,7 @@
 
 # 🛡️ Audit, Risk & Compliance Dashboard 
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/348e2d9f-bd8f-41de-875f-64fec165d7fe" />
+
 This project presents an interactive **Audit, Risk, and Compliance Dashboard** developed using **Power BI**. It allows users to explore audit status, risk ratings, responsible departments, geographic locations, and financial exposure in a dynamic and visual manner.
 
 The dashboard is designed to assist:
