@@ -1,5 +1,12 @@
 
 # PowerBI-Projects-Portfolio
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/ffa1cb50-5c66-4ed1-baf7-fae29094aec0" /> Department Spend Overview   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/department-expense-dashboard)
+
+A Power BI dashboard that analyzes departmental spending across employees, expense types, and countries. It helps identify high-cost areas, track expense trends, and support better budgeting decisions. Key insights include top spending departments, costly expense types like hotels, and detailed employee-level expense breakdowns.
+
+
+
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/53fc7c5f-bbca-4fa7-9405-0a6aa68fae5f" />  Audit, Risk & Compliance Dashboard  ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/audit-risk-management-dashboard)
 
 An interactive Power BI dashboard to track audit status, risk levels, departments, and locations. Key insights include high-risk backlogs, uneven manager workload, and geographic risk clusters. Built with slicers, maps, and visuals for dynamic analysis, it supports audit teams in identifying and managing critical risks effectively.
