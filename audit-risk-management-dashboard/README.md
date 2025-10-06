@@ -104,6 +104,10 @@ This is the main Power BI report file containing the interactive **Audit, Risk &
 - Slicers and visual interactions for dynamic filtering
 
 ---
+#### Let's Connect
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahammedjaleel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
+---
 
 ### 🏷️ Tags
 
