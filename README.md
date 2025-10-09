@@ -1,5 +1,13 @@
 
 # PowerBI-Projects-Portfolio
+
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/06115609-3ea9-40b0-9ea5-93a512ec28bb" /> YTD Revenue & Margin Insights   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/dashboard-ytd-revenue-profit)
+
+An interactive Power BI dashboard for analyzing Year-to-Date (YTD) revenue and profit margins with key KPIs, category breakdowns, and monthly trend comparisons.
+
+
+
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/ffa1cb50-5c66-4ed1-baf7-fae29094aec0" /> Department Spend Overview   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/department-expense-dashboard)
 
 A Power BI dashboard that analyzes departmental spending across employees, expense types, and countries. It helps identify high-cost areas, track expense trends, and support better budgeting decisions. Key insights include top spending departments, costly expense types like hotels, and detailed employee-level expense breakdowns.
