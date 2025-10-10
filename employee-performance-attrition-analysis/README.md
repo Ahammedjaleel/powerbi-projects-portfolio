@@ -162,7 +162,7 @@ This dashboard offers a detailed analysis of how employees are feeling, performi
 
 
 ## 🧵 Storytelling Through HR Intelligence & Forecasting Report
-<img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" />
+
 
 This repository contains a Power BI HR Analytics Dashboard that provides a data-driven view of employee satisfaction, performance, attrition trends, and key reasons behind employee turnover. The dashboard aims to empower HR teams and business leaders with actionable insights to improve employee engagement, retention, and workforce planning.
 
