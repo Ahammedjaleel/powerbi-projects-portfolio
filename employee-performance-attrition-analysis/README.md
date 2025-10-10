@@ -3,25 +3,12 @@
 
 ---
 
-## 📊 Dashboard Overview
-**Workforce Insights Dashboard**
+## 📊 HR-Workforce Insights Dashboard
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7c791f30-e986-41c6-a357-6e0af1151ca2" />
 
-**Employee Engagement & Satisfaction Report**
+## 🧵 Storytelling Through HR-Workforce Insights Dashboard
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" />
-
-**HR Intelligence & Forecasting Report**
-
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" />
-
-
-
-
----
-
-## 🧵 Storytelling Through Data-Workforce Insights Dashboard
-<img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/7c791f30-e986-41c6-a357-6e0af1151ca2" />
 This dashboard designed to analyze and visualize critical HR metrics in an interactive and accessible format. This dashboard provides a comprehensive overview of workforce dynamics, employee distribution, and retention performance, enabling data-driven HR decisions.
 
 ### 👥 Total Employees
@@ -107,9 +94,12 @@ This dashboard designed to analyze and visualize critical HR metrics in an inter
 
 
 ---
+## 📊Employee Engagement & Satisfaction Report
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" />
+
 ## 🧵 Storytelling Through -Employee Engagement & Satisfaction Report
 
-<img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" />
+
 This dashboard offers a detailed analysis of how employees are feeling, performing, and where talent is being sourced. It helps identify which employee groups are thriving and highlights areas that may require improvement.
 
 ---
@@ -165,11 +155,10 @@ This dashboard offers a detailed analysis of how employees are feeling, performi
 ---
 
 
+## 📊 HR Intelligence & Forecasting Report
 
 
-
-
-
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" />
 
 
 ## 🧵 Storytelling Through HR Intelligence & Forecasting Report
