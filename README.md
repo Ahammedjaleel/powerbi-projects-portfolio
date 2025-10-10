@@ -1,6 +1,12 @@
 
 # PowerBI-Projects-Portfolio
 
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" /> Employee Engagement & Satisfaction Report   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/edit/main/employee-performance-attrition-analysis/README.md#employee-engagement--satisfaction-report)
+
+This dashboard analyzes employee engagement, satisfaction, and performance across age, tenure, and departments. It highlights strong engagement levels, balanced departmental satisfaction, and key recruitment sources like LinkedIn and Indeed.
+
+
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" /> HR Intelligence & Forecasting Report   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/employee-performance-attrition-analysis/README.md#-hr-intelligence--forecasting-report)
 
 An interactive dashboard providing a clear overview of key HR metrics like employee count, gender ratio, turnover, and departmental distribution. It helps HR teams make informed, data-driven decisions by visualizing workforce trends, salary ranges, and engagement insights.
