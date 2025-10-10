@@ -7,10 +7,11 @@
 **Workforce Insights Dashboard**
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7c791f30-e986-41c6-a357-6e0af1151ca2" />
 
-**Employee Engagement & Satisfaction Dashboard**
+**Employee Engagement & Satisfaction Report**
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" />
 
-**Employee Attrition Analysis**
+**HR Intelligence & Forecasting Report**
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" />
 
@@ -106,11 +107,8 @@ This dashboard designed to analyze and visualize critical HR metrics in an inter
 
 
 ---
-## 🧵 Storytelling Through Data-Employee Engagement & Satisfaction Dashboard
+## 🧵 Storytelling Through -Employee Engagement & Satisfaction Report
 
-
-
-## 📊 Dashboard Overview: Understanding the Employee Engagement & Satisfaction
 <img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" />
 This dashboard offers a detailed analysis of how employees are feeling, performing, and where talent is being sourced. It helps identify which employee groups are thriving and highlights areas that may require improvement.
 
@@ -174,25 +172,81 @@ This dashboard offers a detailed analysis of how employees are feeling, performi
 
 
 
+## 🧵 Storytelling Through HR Intelligence & Forecasting Report
+<img width="150" height="90" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" />
 
+This repository contains a Power BI HR Analytics Dashboard that provides a data-driven view of employee satisfaction, performance, attrition trends, and key reasons behind employee turnover. The dashboard aims to empower HR teams and business leaders with actionable insights to improve employee engagement, retention, and workforce planning.
 
+## 🚀 Project Overview
 
+The Power BI report explores various HR-related metrics to identify patterns and insights around employee satisfaction, performance, attrition, and organizational risks. The visual storytelling approach offers a narrative backed by data — revealing both expected and unexpected patterns in employee behavior.
 
+## 📈 Key Visualizations & Insights
 
-## 📌 Project Purpose
+### 1. 💼 **Projects & Salary vs Employee Satisfaction**
 
-This dashboard demonstrates the power of **data visualization in HR analytics**, enabling:
-- Informed decision-making
-- Clear communication of workforce trends
-- Strategic workforce planning
+- A scatter chart compares the number of projects and salary levels against employee satisfaction scores.
+- **Key Insight:** Contrary to common assumptions, **there is no significant correlation** between the number of projects or salary and employee satisfaction.
+- **Interpretation:** Factors other than compensation and workload (e.g., recognition, growth opportunities) might influence satisfaction more.
+
+---
+
+### 2. 📉 **Absenteeism vs Performance**
+
+- A line chart visualizes the relationship between employee absence rates and performance scores.
+- **Key Insight:** As expected, **higher absenteeism leads to lower performance.**
+- **Interpretation:** Frequent absences may impact team productivity, deadlines, and overall performance evaluations.
 
 ---
 
+### 3. ☁️ **Reasons for Leaving - Word Cloud**
 
-
-## 📫 Contact
-
-Feel free to connect with me on [LinkedIn](#) or open an issue for feedback, collaboration, or questions.
+- A word cloud highlights the most frequent reasons for employee attrition.
+- **Key Insight:** The top reasons for leaving are:
+  - **"Position Change"** (most common)
+  - **"Unhappy"** (second most common)
+- **Interpretation:** Organizational changes and dissatisfaction are major drivers of turnover, suggesting a need for better internal mobility management and engagement strategies.
 
 ---
+
+### 4. 🔮 **Employee Attrition Forecast**
+
+- A forecast line chart projects future attrition rates over the next 5 years.
+- **Key Insight:**
+  - Attrition is **forecasted to increase from 13% to 25%** over 5 years.
+  - The average attrition rate remains at **10%**, indicating an alarming upward trend.
+- **Interpretation:** Proactive intervention is required to address the growing risk of employee loss.
+
+---
+
+### 5. 📊 **Years at Company vs Age (Termination Risk)**
+
+- A dual-axis line chart plots years at the company alongside employee age and termination records.
+- **Key Insight:**
+  - Employees with **10+ years of service** are **more likely to be terminated**.
+  - The **most common age of termination is 36**.
+- **Interpretation:** This trend may indicate potential issues in career progression or age-related bias, which warrants further investigation.
+
+---
+
+## 🔍 Summary of Key Takeaways
+
+| Insight Area              | Key Finding                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| Projects & Salary        | No strong link to employee satisfaction                                      |
+| Absenteeism & Performance| More absence = Lower performance                                              |
+| Attrition Reasons        | Position change & unhappiness are top reasons for leaving                    |
+| Attrition Forecast       | Projected attrition rate nearly doubles in 5 years                           |
+| Termination Patterns     | Long-tenured employees (10+ years), especially around age 36, are at risk    |
+
+
+---
+#### Let's Connect
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahammedjaleel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
+---
+
+
+### 🏷️ **Tags**  
+🔹 `PowerBI` 🔹 `HRAnalytics` 🔹 `EmployeeAttrition` 🔹 `EmployeeEngagement` 🔹 `DataVisualization` 🔹 `BusinessIntelligence`
 
