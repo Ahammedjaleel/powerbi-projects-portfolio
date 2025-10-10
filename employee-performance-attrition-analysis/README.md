@@ -2,7 +2,13 @@
 
 
 ---
+## 📊 Live Interactive Report
 
+Click below to explore the full interactive dashboard:
+
+[🔗 View Live Report]([https://your-report-link.com](https://app.powerbi.com/view?r=eyJrIjoiNTU5MGUxOGEtNjM2Ny00M2U5LThhYmMtOTk0MTZkYjI3MTUxIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)
+
+---
 ## 📊 HR-Workforce Insights Dashboard
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7c791f30-e986-41c6-a357-6e0af1151ca2" />
