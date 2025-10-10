@@ -1,6 +1,10 @@
 
 # PowerBI-Projects-Portfolio
 
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/d5d4795e-1c4f-40bc-9b7d-c11406a0c072" /> HR Intelligence & Forecasting Report   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/employee-performance-attrition-analysis/README.md#-hr-intelligence--forecasting-report)
+
+An interactive dashboard providing a clear overview of key HR metrics like employee count, gender ratio, turnover, and departmental distribution. It helps HR teams make informed, data-driven decisions by visualizing workforce trends, salary ranges, and engagement insights.
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/06115609-3ea9-40b0-9ea5-93a512ec28bb" /> YTD Revenue & Margin Insights   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/dashboard-ytd-revenue-profit)
 
 An interactive Power BI dashboard for analyzing Year-to-Date (YTD) revenue and profit margins with key KPIs, category breakdowns, and monthly trend comparisons.
