@@ -6,7 +6,8 @@
 
 Click below to explore the full interactive dashboard:
 
-[🔗  View Live Report](https://app.powerbi.com/view?r=eyJrIjoiNTU5MGUxOGEtNjM2Ny00M2U5LThhYmMtOTk0MTZkYjI3MTUxIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)
+
+<a href="[https://app.powerbi.com/view?r=example](https://app.powerbi.com/view?r=eyJrIjoiNTU5MGUxOGEtNjM2Ny00M2U5LThhYmMtOTk0MTZkYjI3MTUxIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)" target="_blank">🔗 View Live Report</a>
 
 ---
 ## 📊 HR-Workforce Insights Dashboard
