@@ -1,6 +1,12 @@
 
 # PowerBI-Projects-Portfolio
 
+# [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/7c791f30-e986-41c6-a357-6e0af1151ca2" /> HR-Workforce Insights Dashboard   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/blob/main/employee-performance-attrition-analysis/README.md#-hr-workforce-insights-dashboard)
+
+This dashboard analyzes employee engagement, satisfaction, and performance across age, tenure, and departments. It highlights strong engagement levels, balanced departmental satisfaction, and key recruitment sources like LinkedIn and Indeed.
+
+
+
 # [<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/5ba30063-3778-4934-9da2-287583acd2ed" /> Employee Engagement & Satisfaction Report   ](https://github.com/Ahammedjaleel/powerbi-projects-portfolio/tree/main/employee-performance-attrition-analysis#employee-engagement--satisfaction-report)
 
 This dashboard analyzes employee engagement, satisfaction, and performance across age, tenure, and departments. It highlights strong engagement levels, balanced departmental satisfaction, and key recruitment sources like LinkedIn and Indeed.
