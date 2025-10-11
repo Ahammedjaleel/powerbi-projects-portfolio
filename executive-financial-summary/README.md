@@ -1,4 +1,13 @@
 # Executive Financial Summary Dashboard
+---
+## 📊 Live Interactive Report
+
+Click below to explore the full interactive dashboard:
+
+[🔗  View Live Report](https://app.powerbi.com/view?r=eyJrIjoiMWY3ZWQwOWYtZjA3MC00Yjk0LWJiYjktYjlkYTJiMDdmMzFhIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)
+
+
+---
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/6c1c56ab-4c19-4be1-87e7-9dd46687cf2c" />
 
