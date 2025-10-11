@@ -156,7 +156,7 @@ Motion was largely **absent between 4:00 AM and 10:00 AM**, and overall patterns
 
 ## 📁 Files Included
 
-- `IOT Insights Dashbord.pbix` – Power BI dashboard file
+- `IoT Insights Dashbord.pbix` – Power BI dashboard file
 - `README.md` – This documentation
 
 ---
@@ -170,7 +170,15 @@ Motion was largely **absent between 4:00 AM and 10:00 AM**, and overall patterns
 - 🌍 Environmental Condition Tracking
 - 🔥 Fire and Gas Leak Risk Detection
 
----
 
 ---
+## Let's Connect
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahammedjaleel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahammed-jaleel-33772b5b/)
+---
+## 🔖 Tags
+
+`Power BI` • `IoT Data` • `Sensor Analysis` • `Environmental Monitoring` • `Smart Home` • `Data Visualization` • `Power Query` • `DAX` • `Azure Data Factory` • `Azure Data Lake` •  `Motion Detection` • `Gas Leak` • `Time Series` • `Air Quality` • `Storytelling` • `Dashboard`
+
+
 
