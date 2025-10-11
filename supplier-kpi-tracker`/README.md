@@ -5,6 +5,16 @@ This Power BI project delivers a visual analysis of supplier performance, focusi
 ---
 
 ## 📊 Dashboard Preview
+---
+## 📊 Live Interactive Report
+
+Click below to explore the full interactive dashboard:
+
+[🔗  View Live Report](https://app.powerbi.com/view?r=eyJrIjoiZjgyY2M5MWQtMjAwYi00MGU4LWEzMDEtN2JjNjE4NmYyYjIwIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9&pageName=ReportSection)
+
+
+---
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/a94978dd-20ec-4901-b860-3e461c477a93" />
 
 ### 🔹 Main Dashboard
 Includes:
@@ -14,7 +24,6 @@ Includes:
 - Sankey Chart mapping **Domestic** vs **International** purchases by department.
 
 
-<img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/a94978dd-20ec-4901-b860-3e461c477a93" />
 
 ---
 
