@@ -1,12 +1,21 @@
 # 🚚 Logistics Performance Tracker
-
-This project showcases a **pLogistics Performance dashboard** built using **Power BI** for a **Canada-based dataset**. It enables stakeholders to monitor revenue, inventory, transactions, and product performance across various filters such as warehouse, channel, and time.
-
 ---
+## 📊 Live Interactive Report
+
+Click below to explore the full interactive dashboard:
+
+[🔗  View Live Report](https://app.powerbi.com/view?r=eyJrIjoiMTc1N2RhOTItYjhmZS00M2ViLWFlOTAtMDIyZjc5MWUzNjhhIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)
+
+
+
 > 📷 **Dashboard Preview:**
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cbc47e33-b838-47a5-a060-20882b246f3b" />
+---
 
+This Dashboard showcases a **Logistics Performance dashboard** built using **Power BI** . It enables stakeholders to monitor revenue, inventory, transactions, and product performance across various filters such as warehouse, channel, and time.
+
+---
 ## 🔍 Filters Available
 
 - **Warehouse Code**
