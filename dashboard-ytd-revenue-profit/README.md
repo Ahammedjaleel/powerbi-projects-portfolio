@@ -1,5 +1,13 @@
 # 📋 Dashboard for YTD Revenue & Margin Insights
+---
+## 📊 Live Interactive Report
 
+Click below to explore the full interactive dashboard:
+
+[🔗  View Live Report](https://app.powerbi.com/view?r=eyJrIjoiMzM1NjcxNzctMTk4Yi00ZTJjLTg1ZDAtODZmM2YzODEyY2FiIiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)
+
+
+---
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/06115609-3ea9-40b0-9ea5-93a512ec28bb" />
 
 
