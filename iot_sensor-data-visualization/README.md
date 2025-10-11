@@ -31,60 +31,137 @@ This Power BI project presents an in-depth analysis of **sensor data** collected
 The dashboard follows a **storytelling approach** to uncover patterns and correlations that can inform safety, automation, and monitoring decisions — applicable in real-world contexts like **smart homes**, **industrial safety**, and **environmental control systems**.
 
 ---
+## 🧾 Dataset Overview
 
-## 📌 Overview
+This project uses **real-time sensor data** collected from a smart device identified by its MAC address. The dataset includes time-series readings from multiple environmental and motion sensors:
 
-- 🛠️ **Built With**: Power BI Desktop
-- 📁 **Data Source**: Sensor readings (CO, humidity, LPG, motion, smoke, temperature)
-- 🎯 **Goal**: Identify relationships between environmental factors and human activity patterns
-- 💡 **Use Cases**: Smart homes, fire risk detection, gas leak monitoring, safety automation
+### 📌 Key Columns in the Dataset:
+- **ts**: Timestamp of the reading (date and time)
+- **device**: Device identifier (MAC address)
+- **co**: Carbon monoxide levels
+- **humidity**: Relative humidity (%)
+- **light**: Light intensity (value varies by sensor)
+- **lpg**: LPG (liquefied petroleum gas) concentration
+- **motion**: Motion detected (binary: 0 = no motion, 1 = motion)
+- **smoke**: Smoke level detected
+- **temp**: Temperature in Celsius
+- **Alert**: Indicates whether an alert was triggered (0 = normal, 1 = alert)
+- **CO_Smoke_Spike**: Custom tag indicating unusual spikes in CO or smoke levels
+
+### 🧠 Time Intelligence Columns:
+- **Date, Time, Hour, Day, Month**: Extracted using Power Query and used for time-series analysis
+
+This rich dataset enables detailed **environmental monitoring**, anomaly detection, and pattern recognition based on both **sensor inputs** and **human activity indicators** (e.g., motion detection).
+
+---
+
+## 🌍 Environmental Monitoring and Sensor Data Analysis Using Power BI
+
+This Power BI dashboard provides a comprehensive analysis of **multi-sensor IoT data**, offering meaningful insights into:
+
+- 🏠 **Indoor air quality** (CO, smoke, LPG)
+- 🔥 **Fire risk indicators** through CO–smoke correlation
+- 🚶 **Motion-triggered alerts** linked to human activity
+- 🕒 **Time-based trends** in temperature and environmental behavior
+
+The dashboard is designed with **storytelling visuals** to support real-time monitoring and decision-making in domains such as **smart homes**, **industrial safety**, and **environmental automation**.
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Power BI** – Data visualization and reporting
+- **Power Query** – ETL processes for sensor data
+- **DAX** – KPI calculations and time intelligence
+- **Power BI Dataflows** – Reusable transformation pipelines
+- **Azure Data Factory** – Ingesting and orchestrating data pipelines
+- **Azure Data Lake** – Scalable data storage and access
+
+---
+
+## 📌 Project Overview
+
+| Attribute        | Details                                                                 |
+|------------------|--------------------------------------------------------------------------|
+| 🛠️ **Built With** | Power BI Desktop                                                        |
+| 📁 **Data Source**| IoT sensor readings (CO, humidity, LPG, motion, smoke, temperature)     |
+| 🎯 **Goal**       | Discover relationships between environmental conditions and human activity |
+| 💡 **Use Cases**  | Smart homes, fire detection, gas leak alerts, safety automation         |
+
+---
+
+
+
+
+---
+
+## 📦 Example Data Snapshot
+
+| ts                   | device              | co         | humidity | light | lpg        | motion | smoke     | temp | Alert | CO_Smoke_Spike |
+|----------------------|---------------------|------------|----------|-------|------------|--------|-----------|------|--------|----------------|
+| 17/07/2020 11:01:15  | b8:27:eb:bf:9d:51   | 0.0059     | 53.3     | 0     | 0.0086     | 0      | 0.0233    | 22.2 | 0      | Normal         |
+| 17/07/2020 11:01:18  | b8:27:eb:bf:9d:51   | 0.0059     | 53.3     | 0     | 0.0087     | 0      | 0.0233    | 22.2 | 0      | Normal         |
+| ...                  | ...                 | ...        | ...      | ...   | ...        | ...    | ...       | ...  | ...    | ...            |
 
 ---
 
 ## 🔍 Key Insights & Storytelling Findings
 
-### 💨🔥 CO and Smoke Trend Alignment
-- CO and smoke levels **rise and fall together**, indicating a strong correlation.
-- Suggests a **shared source**, such as **cooking**, **burning**, or **potential fire risk**.
-- Monitoring both metrics together can **improve early detection** of hazardous events.
+This dashboard delivers actionable insights by combining environmental sensor data with motion patterns over time. The goal is to understand how different environmental variables relate to each other — and to human activity — to improve safety and monitoring outcomes.
 
 ---
 
-### 🚨🕙 Alert Timing Indicates Human-Linked Hazards
-- Alerts are only triggered when **motion is detected**, linking hazards to **human activity**.
-- **No alerts during inactive periods**, implying the environment is **safe when unoccupied**.
-- **Most alerts occur between 7:00 PM and 10:00 PM**, coinciding with **CO and smoke spikes**.
+### 💨🔥 CO and Smoke Levels Move Together
+
+There is a **clear, consistent correlation** between **carbon monoxide (CO)** and **smoke levels** across the dataset. These two variables rise and fall together, which suggests they often originate from the **same source** — such as **cooking**, **burning**, or other combustion-based activities.
+
+> ✅ **Impact:** Monitoring these two indicators together enhances **early detection** of potentially hazardous situations like fires or indoor pollution events.
 
 ---
 
-### 🛢️❌ No LPG–Smoke Correlation Detected
-- No correlation found between **LPG** and **smoke** levels.
-- **All LPG readings remain low**, with **no spikes** or unusual activity.
-- Suggests **no gas leaks** or LPG-related hazardous events occurred during monitoring.
+### 🚨🕙 Alerts Are Triggered by Human Activity
+
+Alert data reveals that hazards are **only triggered when motion is detected**, meaning they are **closely tied to human presence or behavior**.
+
+- **No alerts are recorded during inactive periods**, particularly early mornings (4:00 AM – 10:00 AM).
+- **Most alerts occur between 7:00 PM and 10:00 PM**, aligning with evening activity and peaks in CO and smoke.
+
+> ✅ **Impact:** The environment is generally **safe when unoccupied**, and **alert logic is effectively linked to human-triggered events**.
 
 ---
 
-### 😴🔍 Motion Activity Unrelated to Environmental Changes
-- **No motion detected** between **4:00 AM and 10:00 AM**; activity is irregular throughout the day.
-- No clear relationship between **motion** and environmental factors like **CO**, **smoke**, or **LPG**.
-- **Gas and smoke levels remain stable**, showing **minimal environmental impact** from motion.
+### 🛢️❌ No Link Between LPG and Smoke Levels
+
+Analysis shows **no observable correlation** between **LPG** and **smoke levels**. Throughout the monitoring period:
+
+- All **LPG readings remained low**, showing **no spikes** or abnormal behavior.
+- No events suggested potential gas leaks or LPG-related safety concerns.
+
+> ✅ **Impact:** Indicates **no gas leaks** occurred during data collection, and confirms the reliability of the environment with respect to LPG safety.
+
+---
+
+### 😴🔍 Motion Patterns Do Not Influence Environmental Variables
+
+Motion was largely **absent between 4:00 AM and 10:00 AM**, and overall patterns of activity appeared **sporadic** throughout the day.
+
+- There is **no meaningful correlation** between motion events and changes in **CO, smoke, or LPG** levels.
+- Even when motion is detected, **gas and smoke readings remain stable**.
+
+> ✅ **Impact:** Confirms that **human activity has minimal environmental impact** under normal conditions, and that the system can distinguish between passive and risk-related activity.
+
+---
 
 ---
 
 ## 📁 Files Included
 
-- `Sensor_Analysis.pbix` – Power BI dashboard file
+- `IOT Insights Dashbord.pbix` – Power BI dashboard file
 - `README.md` – This documentation
 
 ---
 
-## 🚀 Getting Started
 
-1. Open the `.pbix` file using **Power BI Desktop**.
-2. Explore visualizations and insights by navigating through report pages.
-3. Modify or connect to your own sensor data for customized analysis.
-
----
 
 ## 📈 Potential Applications
 
@@ -94,10 +171,6 @@ The dashboard follows a **storytelling approach** to uncover patterns and correl
 - 🔥 Fire and Gas Leak Risk Detection
 
 ---
-
-## 📬 Feedback or Questions?
-
-Feel free to open an [issue](https://github.com/) or reach out if you have feedback, questions, or improvement suggestions.
 
 ---
 
