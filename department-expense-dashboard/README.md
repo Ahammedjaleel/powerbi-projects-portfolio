@@ -1,4 +1,15 @@
 # 📘 Department Spend Overview 
+
+
+---
+## 📊 Live Interactive Report
+
+Click below to explore the full interactive dashboard:
+
+[🔗  View Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjZhZjIzMGUtMzhiMi00ZDIzLWIxMTEtNmIxNjBhYjMzYzQ3IiwidCI6IjU5MWEyZWE3LTg4MDItNGIxNS1iMDZlLTIwMGI2OTc3M2FiNiJ9)
+
+
+---
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/ffa1cb50-5c66-4ed1-baf7-fae29094aec0" />
 
 
